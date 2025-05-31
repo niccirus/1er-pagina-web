@@ -1,0 +1,28 @@
+body {
+    background-color: #333; /* Fondo gris oscuro */
+    color: #000; /* Color de texto negro */
+    text-align: center; /* Centrar todos los elementos */
+}
+
+h1 {
+    background-color: #fff; /* Fondo blanco para el título */
+    padding: 10px; /* Espaciado interno */
+}
+
+p {
+    background-color: #fff; /* Fondo blanco para el párrafo */
+    padding: 10px; /* Espaciado interno */
+}
+
+img {
+    max-width: 100%; /* Asegura que la imagen no exceda el ancho de la pantalla */
+    height: auto; /* Mantiene la proporción de la imagen */
+}
+
+video {
+    max-width: 100%; /*Asegura que el video no exceda el ancho de la pantalla*/
+    height: auto;/*mantiene la proporcion del video*/
+}
+h3{background-color:purple;/*Fondo purpura para el parrafo*/
+   padding:10xp;/*espaciando inerno*/
+}
